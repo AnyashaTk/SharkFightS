@@ -10,76 +10,77 @@
 
 
 
+    <Button
+        android:id="@+id/settings"
+        android:layout_width="65dp"
+        android:layout_height="65dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/btn_settings" />
 
     <Button
         android:id="@+id/tomap"
-        android:layout_width="88dp"
-        android:layout_height="73dp"
+        android:layout_width="65dp"
+        android:layout_height="65dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
-        android:layout_marginStart="496dp"
-        android:layout_marginTop="15dp"
+        android:layout_marginStart="515dp"
+        android:layout_marginTop="10dp"
         android:background="@drawable/btn" />
 
     <Button
         android:id="@+id/skills"
-        android:layout_width="90dp"
-        android:layout_height="67dp"
+        android:layout_width="65dp"
+        android:layout_height="65dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
-        android:layout_marginStart="397dp"
-        android:layout_marginTop="17dp"
-        android:background="@drawable/btn" />
+        android:layout_marginStart="415dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/btn_skills" />
 
     <Button
         android:id="@+id/toagility"
-        android:layout_width="212dp"
-        android:layout_height="49dp"
+        android:layout_width="194dp"
+        android:layout_height="48dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
-        android:layout_marginStart="326dp"
-        android:layout_marginTop="249dp"
-        android:background="@drawable/btn" />
-
-    <Button
-        android:id="@+id/toforce"
-        android:layout_width="206dp"
-        android:layout_height="41dp"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentTop="true"
-        android:layout_marginStart="330dp"
-        android:layout_marginTop="146dp"
-        android:background="@drawable/btn" />
-
-    <Button
-        android:id="@+id/tohp"
-        android:layout_width="208dp"
-        android:layout_height="45dp"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentTop="true"
-        android:layout_marginStart="328dp"
-        android:layout_marginTop="96dp"
-        android:background="@drawable/btn" />
+        android:layout_marginStart="365dp"
+        android:layout_marginTop="270dp"
+        android:background="@drawable/btn_long" />
 
     <Button
         android:id="@+id/tospeed"
-        android:layout_width="188dp"
-        android:layout_height="42dp"
+        android:layout_width="194dp"
+        android:layout_height="48dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
-        android:layout_marginStart="340dp"
-        android:layout_marginTop="200dp"
-        android:background="@drawable/btn" />
+        android:layout_marginStart="365dp"
+        android:layout_marginTop="210dp"
+        android:background="@drawable/btn_long" />
 
     <Button
-        android:id="@+id/settings"
-        android:layout_width="88dp"
-        android:layout_height="73dp"
+        android:id="@+id/toforce"
+        android:layout_width="194dp"
+        android:layout_height="48dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
-        android:layout_marginStart="11dp"
-        android:layout_marginTop="11dp"
-        android:background="@drawable/btn" />
+        android:layout_marginStart="365dp"
+        android:layout_marginTop="150dp"
+        android:background="@drawable/btn_long" />
+
+    <Button
+        android:id="@+id/tohp"
+        android:layout_width="194dp"
+        android:layout_height="48dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="365dp"
+        android:layout_marginTop="90dp"
+        android:background="@drawable/btn_long" />
+
+
 
     <ImageView
         android:layout_width="match_parent"
@@ -88,7 +89,7 @@
         android:layout_alignParentTop="true"
         android:layout_marginStart="0dp"
         android:layout_marginTop="0dp"
-        android:background="@drawable/characterfon" />
+        android:background="@drawable/bkgd_character" />
 
     <ImageView
         android:layout_width="198dp"

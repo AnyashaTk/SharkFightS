@@ -14,7 +14,7 @@
         android:layout_alignParentTop="true"
         android:layout_marginStart="0dp"
         android:layout_marginTop="0dp"
-        android:background="@drawable/characterfon" />
+        android:background="@drawable/bkgd_character" />
 
     <ImageView
         android:layout_width="76dp"
